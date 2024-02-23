@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssignmentAcura</string>
+    <string name="notification_title">Timer Completed</string>
+    <string name="notification_text">1 minute timer</string>
+</resources>
